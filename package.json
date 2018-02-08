@@ -1,5 +1,5 @@
 {
-  "name": "wdio-static-server-service",
+  "name": "@saucelabs/wdio-static-server-service",
   "description": "Creates a static server for WebdriverIO.",
   "version": "1.0.1",
   "main": "index.js",

@@ -1,3 +1,6 @@
+> **NOTE: <br/>**
+> This fork is no longer maintained
+
 # WDIO Static Server Service
 
 [![npm](https://img.shields.io/npm/v/wdio-static-server-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-static-server-service) [![npm](https://img.shields.io/npm/dm/wdio-static-server-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-static-server-service) [![npm](https://img.shields.io/npm/l/wdio-static-server-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-static-server-service)
